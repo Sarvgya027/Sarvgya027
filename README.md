@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sarvgya Verma</h1>
+<img width="1834" alt="Make your README (1)aa" src="https://github.com/Sarvgya027/Sarvgya027/assets/134856736/b49381f7-1b1f-4475-886f-9dfbfca061f6">
+
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarvgya027&label=Profile%20views&color=0e75b6&style=flat" alt="sarvgya027" /> </p>
