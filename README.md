@@ -1,4 +1,4 @@
-<img width="1834" alt="Make your README (1)aa" src="https://github.com/Sarvgya027/Sarvgya027/assets/134856736/b49381f7-1b1f-4475-886f-9dfbfca061f6">
+<img width="1834" alt="Make your README (1)fsfs" src="https://github.com/Sarvgya027/Sarvgya027/assets/134856736/9c8541a1-7fae-4133-b4b2-f78f319306f7">
 
 <h3 align="center">A passionate Software Engineer from India</h3>
 
