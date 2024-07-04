@@ -31,6 +31,9 @@ Full-stack developer with expertise in Next.js, Prisma, and PostgreSQL. Proficie
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+
+
+
 ---
 
 
