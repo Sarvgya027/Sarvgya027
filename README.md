@@ -1,10 +1,10 @@
 <img width="1834" alt="Make your README (1)fsfs" src="https://github.com/Sarvgya027/Sarvgya027/assets/134856736/9c8541a1-7fae-4133-b4b2-f78f319306f7">
 
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarvgya027&label=Profile%20views&color=0e75b6&style=flat" alt="sarvgya027" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sarvgya027" target="blank"><img src="https://img.shields.io/twitter/follow/sarvgya027?logo=twitter&style=for-the-badge" alt="sarvgya027" /></a> </p>
+
 
 
 # 💫 About Me:
